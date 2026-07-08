@@ -70,27 +70,29 @@ submission:
 <tr>
 <td width="50%">
 
-**Profile Detail — opportunity visualisation**
-<br/>
-<img src="./docs/screenshots/profile-detail-chart.png" alt="Volume vs difficulty scatter chart, opportunity gap highlighted" width="100%"/>
-
-</td>
-<td width="50%">
-
 **Create Profile — competitors + submit**
 <br/>
 <img src="./docs/screenshots/create-profile-2.png" alt="Create profile form with competitors and submit button" width="100%"/>
 
 </td>
+<td width="50%">
+
+**Profile Detail — Recent Mentions Table**
+<br/>
+<img src="./docs/screenshots/profile-detail-chart.png" alt="Recent mentions table with platform, SOV, location columns" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2">
+
+**Profile Detail — AI Visibility Score & Top Opportunities**
+<br/>
+<img src="./docs/screenshots/profile-details-chat2.PNG" alt="AI Visibility Score panel and Top Opportunities chart" width="100%"/>
+
+</td>
 </tr>
 </table>
-
-> The **Volume vs. difficulty** chart plots every discovered query — purple points mark queries
-> where the target domain currently *isn't* visible. The best opportunities cluster **top-left**
-> (high search volume, low competitive difficulty), which is exactly what the opportunity-score
-> formula below is designed to surface first.
-
----
 
 ## ✨ Highlights
 
